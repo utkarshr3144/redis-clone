@@ -1,0 +1,4 @@
+node_modules
+dist
+*.aof
+.DS_Store
